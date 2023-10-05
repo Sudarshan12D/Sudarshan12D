@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./readme.css" />
   </head>
   <body>
-    <p style="font-size: 60px;"> Hi there 👋</p>
+    <p style="font-size: 60px; text-align: center;" > Hi there 👋</p>
     <p style="font-size: 30px" align= "center">Welcome to my GitHub</p>
     
   </body>
