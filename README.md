@@ -7,7 +7,7 @@
   </head>
   <body>
     <h1 style="color: red; text-decoration: underline;"> Hi there 👋.</h1>
-    <h1>Welcome to my GitHub</h1>
+    <p>Welcome to my GitHub</p>
     <div class = "allbuttons" id = "allbuttons">
       <button class = "headerbtn" style = "margin-left: -0.2em;" type = "button" onclick="Invert()" > &#9681; </button>
       <button class = "headerbtn" style = "margin-left: -0.2em;" type = "button" onclick = "openhint()"> &#63; </button>
