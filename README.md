@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
-    <title> Hi there 👋.</title>
+    <h1 style="color: red; text-decoration: underline;"> Hi there 👋.</h1>
     <h1>Welcome to my GitHub</h1>
     <div class = "allbuttons" id = "allbuttons">
       <button class = "headerbtn" style = "margin-left: -0.2em;" type = "button" onclick="Invert()" > &#9681; </button>
