@@ -3,12 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Wordle</title>
     <link rel="stylesheet" href="./style.css" />
-    <script src="./wordle.js"></script>
   </head>
   <body>
-    <h1 id = "title">Wordle</h1>
+    <title> Hi there 👋.</title>
+    <h1>Welcome to my GitHub</h1>
     <div class = "allbuttons" id = "allbuttons">
       <button class = "headerbtn" style = "margin-left: -0.2em;" type = "button" onclick="Invert()" > &#9681; </button>
       <button class = "headerbtn" style = "margin-left: -0.2em;" type = "button" onclick = "openhint()"> &#63; </button>
