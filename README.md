@@ -37,6 +37,4 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
-<img align="left" alt="Sudarshan's GitHub Stats" src="https://github-readme-stats-three-tau-84.vercel.app/api?username=Sudarshan12D&show_icons=true&hide_border=true" />
-
-
+[![Top Langs](https://github-readme-stats-three-tau-84.vercel.app/api/top-langs/?username=Sudarshan12D)](https://github.com/Sudarshan12D/github-readme-stats)
