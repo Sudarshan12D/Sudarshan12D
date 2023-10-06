@@ -15,7 +15,7 @@
 
 * 🏓 Hobbies - Gaming, Coding, Guitar, Football, Swimming, Ice skating, Cooking, Gym. 
 
-* 📧 Contact - email: **sudarshansudu1@gmail.com** Linkdein: ![LinkedIn(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sudarshan12d)
+* 📧 Contact - email: **sudarshansudu1@gmail.com** Linkdein: ![[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sudarshan12d)
 
 * 🏢 Work - Looking for internship starting May 2024.
 
