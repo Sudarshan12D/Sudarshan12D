@@ -51,8 +51,6 @@
 </html>
 
 
-[![Harlok's wakatime stats](https://github-readme-stats-three-tau-84.vercel.app/api/wakatime?username=Sudarshan12D)]
-
 
 
 
