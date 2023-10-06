@@ -38,3 +38,6 @@
 
 
 [![Top Langs](https://github-readme-stats-three-tau-84.vercel.app/api/top-langs/?username=Sudarshan12D)](https://github.com/Sudarshan12D/github-readme-stats)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-three-tau-84.vercel.app/api/top-langs/?username=Sudarshan12D&show_icons=true&theme=dark&locale=en" alt="ad1tya-prasad" /></p>
