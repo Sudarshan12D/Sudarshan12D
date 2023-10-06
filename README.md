@@ -4,9 +4,7 @@
     <h1 align= "center"> 
       Hi there 👋 
       <br><b>Welcome to my GitHub</b>
-      
     </h1><hr>
-    
   </body>
 </html>
 
