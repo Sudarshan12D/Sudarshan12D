@@ -37,4 +37,5 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 
-[![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudarshan12D)](https://github.com/Sudarshan12D/github-readme-stats)
+<img align="left" alt="Sudarshan's GitHub Stats" src="https://github-readme-stats-three-tau-84.vercel.app
+/api?username=Sudarshan12D&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
