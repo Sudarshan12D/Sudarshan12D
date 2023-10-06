@@ -3,7 +3,8 @@
   <body>
     <h1 align= "center"> 
       Hi there 👋 
-      <br><b>Welcome to my GitHub</b> 
+      <br><b>Welcome to my GitHub</b>
+      <hr>
     </h1>
     
   </body>
