@@ -12,6 +12,8 @@
 
 * 🏓 Hobbies - Gaming, Coding, Guitar, Football, Swimming, Ice skating, Cooking, Gym. 
 
+* 📧 Contact - **sudarshansudu1@gmail.com**
+
 * 🏢 Work - Looking for internship starting May 2024.
 
 #### 💻Languages & Tools: 
