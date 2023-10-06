@@ -6,6 +6,13 @@
   </body>
 </html>
 
+#### 🧑🏽 About me:
+
+* 📚 Studies - B.s in software Engineering at University of Calgary.
+
+* 🏓 Hobbies - Gaming, Coding, Guitar, Football, Swimming, Ice skating, Cooking, Gym. 
+
+* 🏢 Work - Looking for internship starting May 2024.
 
 #### 💻Languages & Tools: 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
