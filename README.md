@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-  </head>
+
+<html>
   <body>
     <h1 align= "center"> Hi there 👋</h1>
-    <p align= "center">Welcome to my GitHub</p>
-    
+    <p align= "center"><b>Welcome to my GitHub</b></p>
   </body>
 </html>
+
