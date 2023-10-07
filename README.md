@@ -10,7 +10,7 @@
 
 <h1 align= "center"> 🧑🏽 About me</h1>
 
-* 📚 Studies - B.s in software Engineering at University of Calgary.
+* 📚 Studies - B.S in software Engineering at University of Calgary.
 
 * 🏓 Hobbies - Gaming, Coding, Guitar, Football, Swimming, Ice skating, Cooking, Gym. 
 
