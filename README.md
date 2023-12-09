@@ -45,7 +45,8 @@
 <html>
   <body>
     <h1 align= "center"> 📈 GitHub Stats </h1>
-    <p align="center"><img  src="https://github-readme-stats-three-tau-84.vercel.app/api/top-langs/?username=Sudarshan12D&theme=dark" alt="Sudarshan12D" /></p>
+    <p align="center"><img  src=![Sudarshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudarshan12D&show_icons=true&theme=radical) /></p>
+    
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan12D&theme=dark" alt="Sudarshan12D" /></p>
 
   </body>
