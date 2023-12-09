@@ -46,15 +46,11 @@
   <body>
     <h1 align= "center"> 📈 GitHub Stats </h1>
     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sudarshan12D&show_icons=true&theme=radical" /></p>
-    <p align="center"><img align="center" src="[(https://github-readme-stats.vercel.app/api/wakatime username=sudu)](https://github.com/anuraghazra/github-readme-stats)" /></p>
-    
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarshan12D&theme=dark" alt="Sudarshan12D" /></p>
 
   </body>
 </html>
 <br>
-[![Sudarshan12D's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sudu)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
