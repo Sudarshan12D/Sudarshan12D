@@ -16,7 +16,7 @@
 
 * 📧 Contact - **sudarshansudu1@gmail.com**
 
-* 🏢 Work - Looking for internship starting May 2024.
+* 🏢 Work - Looking for Jobs starting May 2025.
 
 
 <h1 align= "center"> 💻 Languages & Tools</h1>
