@@ -16,7 +16,7 @@
 
 * 📧 Contact - **sudarshansudu1@gmail.com**
 
-* 🏢 Work - Looking for Jobs starting May 2025.
+* 🏢 Work - Looking for Jobs currently.
 
 
 <h1 align= "center"> 💻 Languages & Tools</h1>
